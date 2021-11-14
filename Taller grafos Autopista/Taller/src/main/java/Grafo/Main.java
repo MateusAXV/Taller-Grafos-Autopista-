@@ -1,5 +1,5 @@
 
-package co.edu.ucundinamarca.tallern;
+package Grafo;
 
 import org.apache.log4j.Logger;
 
