@@ -80,10 +80,10 @@ public class CaminosMInimos {
                 }
             }
         }
-       
+        return "";
     }
-    
+
     //llegue hasta el minuto 22:54 del video,para no dejar el metodo anterior incompleto
-    //:D
+    //y el return lo deje asi para que no marcara error,a ese le falta
     
 }
