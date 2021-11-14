@@ -80,10 +80,9 @@ public class CaminosMInimos {
                 }
             }
         }
-        return "";
+        return "la matriz de caminos mas cortos entre los vertices es:\n " + cadena
+                + "\n los diferentes caminos mas cortos entre vertices son:\n" + caminitos;
     }
 
-    //llegue hasta el minuto 22:54 del video,para no dejar el metodo anterior incompleto
-    //y el return lo deje asi para que no marcara error,a ese le falta
-    
+    //llegue hasta el minuto 25:31 del video,para no dejar el metodo anterior incompleto
 }
